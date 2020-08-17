@@ -1,4 +1,4 @@
-== BitBucket Branch Source Plugin
+== BitBucket Branch Source Plugin.
 
 image:https://img.shields.io/jenkins/plugin/v/cloudbees-bitbucket-branch-source["Jenkins Plugin", link="https://plugins.jenkins.io/cloudbees-bitbucket-branch-source"]
 image:https://img.shields.io/jenkins/plugin/i/cloudbees-bitbucket-branch-source?color=blue["Jenkins Plugin Installs", link="https://plugins.jenkins.io/cloudbees-bitbucket-branch-source"]
